@@ -64,8 +64,8 @@ export default {
           be back by 7/28/25 (Monday). I'm sorry for any inconvenience caused.</p>
           <hr>
           <h1>Donation Links</h1><br>
-          <li><h2><a href="https://offline.byteseeker.cc">Paypal Donations</a></h2></li>
-          <li><h2><a href="https://offline.byteseeker.cc">Cashapp Donations</a></h2></li>
+          <h2><a href="https://offline.byteseeker.cc">Paypal Donations</a></h2>
+          <h2><a href="https://offline.byteseeker.cc">Cashapp Donations</a></h2>
         </body>
         </html>
       `, {
